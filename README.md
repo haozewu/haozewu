@@ -2,7 +2,8 @@
 
 #### Hello 👏
 
-> I'm the creator of nothing
+> I'm the creator of nothing.
+>
 > Currently a contributor to nothing.
 
 🔗 https://twitter.com/haoze98

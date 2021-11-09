@@ -6,8 +6,6 @@
 >
 > Currently a contributor to nothing.
 
-🔗 https://twitter.com/haoze98
-
 
 - 🔭 I’m currently a student.
 - 🌱 I’m currently learning c++, data analysis...
@@ -15,4 +13,3 @@
 - 🤔 I’m looking for help with k8s.
 - 💬 Ask me about anything about my code or computer knowledge.
 - 📫 How to reach me: ?
--->
